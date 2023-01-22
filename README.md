@@ -1,4 +1,4 @@
-# Conquest2022_Mentor_Matching_Algorithm
+# Conquest2022 Mentor Matching Algorithm
 Contains everything pertaining to the Conquest 2022 Mentor Matching Algorithm
 
 AlgoDesign6 uses Matching Scores to Allot Mentors
